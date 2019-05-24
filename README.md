@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-title: Welcome to the Octocat’s homepage!
+## Welcome to the CadencePM homepage!
 
 You can use the [editor on GitHub](https://github.com/mpadmanathan/cadencepm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
